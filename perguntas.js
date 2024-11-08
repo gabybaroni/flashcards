@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Charadas',
+    'O que é o que é: passa diante do sol e não faz sombra?',
+    'O vento'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Charadas',
+    'O que o lápis disse para o apontador?',
+    'Estou desapontado'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Charadas',
+    'Por qual motivo ovos não podem contar piadas?',
+    'Para não racharem de rir'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz tchau em Inglês?',
-    'Oi em ingles é bye'
+    'Charadas',
+    'O que um ponteiro disse para o outro?',
+    'Te encontro ao meio dia'
 )
